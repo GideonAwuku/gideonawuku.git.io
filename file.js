@@ -1,10 +1,10 @@
 {
   id: 1,
-  name: "Wireless Earbuds Pro",  // Change to real product name
-  category: "electronics",        // electronics/fashion/home/beauty
-  price: 120,                     // Your selling price in GHS
-  oldPrice: 180,                  // Original/crossed-out price
-  badge: "SALE",                  // HOT / NEW / SALE / null
+  name: "Wireless Earbuds Pro",  
+  category: "electronics",       
+  price: 120,                     
+  oldPrice: 180,               
+  badge: "SALE",                 
   stars: 5,
   ...
 }
